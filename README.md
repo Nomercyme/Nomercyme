@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://tenor.com/view/homer-simpson-dancing-grinding-lol-gif-20312555" />
+  <div class="tenor-gif-embed" data-postid="20312555" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/homer-simpson-dancing-grinding-lol-gif-20312555">Homer Simpson GIF</a>from <a href="https://tenor.com/search/homer-gifs">Homer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 
