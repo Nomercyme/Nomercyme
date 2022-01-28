@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/c3UJj3xcwWDd0hML3W" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/back-background-yukanco-c3UJj3xcwWDd0hML3W">via GIPHY</a></p>
+  <img href="https://c.tenor.com/z4NaeqSDIJUAAAAd/homer-simpson-dancing.gif">
 </div>
 
 
