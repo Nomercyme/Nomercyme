@@ -1,6 +1,8 @@
+<!--
 <div align="center">
   <img src="https://c.tenor.com/z4NaeqSDIJUAAAAd/homer-simpson-dancing.gif" />
 </div>
+-->
 
 <br/>
 <br/>
