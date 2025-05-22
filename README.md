@@ -9,7 +9,7 @@ I'm passionate about how AI and machine learning can transform industries and so
 - **MSc in Business Engineering (Data Science)** - Catholic University of Leuven - Leuven, Belgium (09/2022 – 06/2024)
 - **BSc in Business Engineering (Finance)** - Catholic University of Leuven - Leuven, Belgium (09/2019 – 07/2022)
 
-# 🏆 Achievements / Projects
+## 🏆 Achievements / Projects
 
 - **Energy Modelling Competition by LCP Delta**
   - Secured first place in a competition focused on BESS (Battery Energy Storage Systems) DFR (Dynamic Frequency Regulation) price forecasting using ML / DL techniques.
@@ -42,4 +42,4 @@ I'm passionate about how AI and machine learning can transform industries and so
 
 ## 📬 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-kempynck/)
-[![Gmail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abel.kempynck@gmail.com)
+[![Gmail]([https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))](mailto:abel.kempynck@gmail.com)
