@@ -9,6 +9,17 @@ I'm passionate about how AI and machine learning can transform industries and so
 - **MSc in Business Engineering (Data Science)** - Catholic University of Leuven - Leuven, Belgium (09/2022 – 06/2024)
 - **BSc in Business Engineering (Finance)** - Catholic University of Leuven - Leuven, Belgium (09/2019 – 07/2022)
 
+## 🛠️ Skills
+![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sql&logoColor=white)
+![](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
+![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
+
 ## 🏆 Achievements / Projects
 
 - **Energy Modelling Competition by LCP Delta**
@@ -28,17 +39,6 @@ I'm passionate about how AI and machine learning can transform industries and so
   - Analyzed high-resolution aerial imagery and enhanced model robustness with a sanity check against ground truth data.
   - Implemented a unique hyperparameter tuning strategy to optimize the confidence threshold.
   - Article submitted to ACM e-Energy 2025: [Rooftop Solar PV Segmentation Using High-Resolution Multi-Year Aerial Imagery and Capacity Data](https://drive.google.com/file/d/1kzEIUPSaC-dML64cAvzkYxv5OfQOXvVA/view?usp=sharing)
-
-## 🛠️ Skills
-![](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=sql&logoColor=white)
-![](https://img.shields.io/badge/R-grey?style=for-the-badge&logo=r&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-grey?style=for-the-badge&logo=pytorch&logoColor=white)
-![](https://img.shields.io/badge/Tensorflow-grey?style=for-the-badge&logo=tensorflow&logoColor=white)
-![](https://img.shields.io/badge/Numpy-grey?style=for-the-badge&logo=numpy&logoColor=white)
-![](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📬 Let's connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-kempynck/)
