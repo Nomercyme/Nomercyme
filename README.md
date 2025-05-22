@@ -24,7 +24,8 @@ I'm passionate about how AI and machine learning can transform industries and so
 
 - **Energy Modelling Competition by LCP Delta**
   - Secured first place in a competition focused on BESS (Battery Energy Storage Systems) DFR (Dynamic Frequency Regulation) price forecasting using ML / DL techniques.
-  - Goal was to forecast prices of UK's dynamic frequency regulation markets, one of the National Energy System Operator (NESO) ancillary markets, designed to maintain grid frequency within the range of 50Hz to ensure grid stability and prevent equipment failure
+  - My solution consisted of an ensemble scheme weighing predictions of ML model (LightGBM) trained on granular (30min) data and statistical model (ARIMA) on aggregated data.
+  - Goal was to forecast prices of UK's dynamic frequency regulation markets, one of the National Energy System Operator (NESO) ancillary markets, designed to maintain grid frequency within the range of 50Hz to ensure grid stability and prevent equipment failure.
   - Scientific article on my winning solution: [Energy Modelling Competition by LCP Delta](https://drive.google.com/file/d/1dEi0iejKhPlqIWViAowEcq1zNGuvl3nT/view?usp=sharing)
  
 - **MS Thesis: Deep Learning and Electricity Price Forecasting on the Belgian Day-Ahead Market**
